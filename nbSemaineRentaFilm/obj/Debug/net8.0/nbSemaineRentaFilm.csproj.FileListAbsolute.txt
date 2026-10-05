@@ -1,0 +1,14 @@
+C:\Users\dadou\RiderProjects\nbSemaineRentaFilm\nbSemaineRentaFilm\bin\Debug\net8.0\nbSemaineRentaFilm.exe
+C:\Users\dadou\RiderProjects\nbSemaineRentaFilm\nbSemaineRentaFilm\bin\Debug\net8.0\nbSemaineRentaFilm.deps.json
+C:\Users\dadou\RiderProjects\nbSemaineRentaFilm\nbSemaineRentaFilm\bin\Debug\net8.0\nbSemaineRentaFilm.runtimeconfig.json
+C:\Users\dadou\RiderProjects\nbSemaineRentaFilm\nbSemaineRentaFilm\bin\Debug\net8.0\nbSemaineRentaFilm.dll
+C:\Users\dadou\RiderProjects\nbSemaineRentaFilm\nbSemaineRentaFilm\bin\Debug\net8.0\nbSemaineRentaFilm.pdb
+C:\Users\dadou\RiderProjects\nbSemaineRentaFilm\nbSemaineRentaFilm\obj\Debug\net8.0\nbSemaineRentaFilm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dadou\RiderProjects\nbSemaineRentaFilm\nbSemaineRentaFilm\obj\Debug\net8.0\nbSemaineRentaFilm.AssemblyInfoInputs.cache
+C:\Users\dadou\RiderProjects\nbSemaineRentaFilm\nbSemaineRentaFilm\obj\Debug\net8.0\nbSemaineRentaFilm.AssemblyInfo.cs
+C:\Users\dadou\RiderProjects\nbSemaineRentaFilm\nbSemaineRentaFilm\obj\Debug\net8.0\nbSemaineRentaFilm.csproj.CoreCompileInputs.cache
+C:\Users\dadou\RiderProjects\nbSemaineRentaFilm\nbSemaineRentaFilm\obj\Debug\net8.0\nbSemaineRentaFilm.dll
+C:\Users\dadou\RiderProjects\nbSemaineRentaFilm\nbSemaineRentaFilm\obj\Debug\net8.0\refint\nbSemaineRentaFilm.dll
+C:\Users\dadou\RiderProjects\nbSemaineRentaFilm\nbSemaineRentaFilm\obj\Debug\net8.0\nbSemaineRentaFilm.pdb
+C:\Users\dadou\RiderProjects\nbSemaineRentaFilm\nbSemaineRentaFilm\obj\Debug\net8.0\nbSemaineRentaFilm.genruntimeconfig.cache
+C:\Users\dadou\RiderProjects\nbSemaineRentaFilm\nbSemaineRentaFilm\obj\Debug\net8.0\ref\nbSemaineRentaFilm.dll
